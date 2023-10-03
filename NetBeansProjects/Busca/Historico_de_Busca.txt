@@ -1,0 +1,77 @@
+Data:21/09/2023 Hora:10:41
+Nome informado: pom
+C:\Users\User\OneDrive - Academico - Secretaria do Estado da Educação de São Paulo\Documentos\NetBeansProjects\Busca\pom.xml
+
+C:\Users\User\OneDrive - Academico - Secretaria do Estado da Educação de São Paulo\Documentos\NetBeansProjects\Busca\target\maven-archiver\pom.properties
+
+
+Data:21/09/2023 Hora:22:26
+Nome informado: pom
+C:\Users\User\OneDrive - Academico - Secretaria do Estado da Educação de São Paulo\Documentos\NetBeansProjects\Busca\pom.xml
+
+C:\Users\User\OneDrive - Academico - Secretaria do Estado da Educação de São Paulo\Documentos\NetBeansProjects\Busca\target\maven-archiver\pom.properties
+
+
+Data:21/09/2023 Hora:22:37
+Nome informado: pom
+C:\Users\User\OneDrive - Academico - Secretaria do Estado da Educação de São Paulo\Documentos\NetBeansProjects\Busca\pom.xml
+
+C:\Users\User\OneDrive - Academico - Secretaria do Estado da Educação de São Paulo\Documentos\NetBeansProjects\Busca\target\maven-archiver\pom.properties
+
+
+Data:21/09/2023 Hora:22:40
+Nome informado: pom
+C:\Users\User\OneDrive - Academico - Secretaria do Estado da Educação de São Paulo\Documentos\NetBeansProjects\Busca\pom.xml
+
+C:\Users\User\OneDrive - Academico - Secretaria do Estado da Educação de São Paulo\Documentos\NetBeansProjects\Busca\target\maven-archiver\pom.properties
+
+
+Data:21/09/2023 Hora:22:45
+Nome informado: pom
+C:\Users\User\OneDrive - Academico - Secretaria do Estado da Educação de São Paulo\Documentos\NetBeansProjects\Busca\pom.xml
+
+C:\Users\User\OneDrive - Academico - Secretaria do Estado da Educação de São Paulo\Documentos\NetBeansProjects\Busca\target\maven-archiver\pom.properties
+
+
+Data:21/09/2023 Hora:22:45
+Nome informado: pom
+C:\Users\User\OneDrive - Academico - Secretaria do Estado da Educação de São Paulo\Documentos\NetBeansProjects\Busca\pom.xml
+
+C:\Users\User\OneDrive - Academico - Secretaria do Estado da Educação de São Paulo\Documentos\NetBeansProjects\Busca\target\maven-archiver\pom.properties
+
+
+Data:21/09/2023 Hora:22:50
+Nome informado: pom
+C:\Users\User\OneDrive - Academico - Secretaria do Estado da Educação de São Paulo\Documentos\NetBeansProjects\Busca\pom.xml
+
+C:\Users\User\OneDrive - Academico - Secretaria do Estado da Educação de São Paulo\Documentos\NetBeansProjects\Busca\target\maven-archiver\pom.properties
+
+
+Data:21/09/2023 Hora:22:53
+Nome informado: pom
+C:\Users\User\OneDrive - Academico - Secretaria do Estado da Educação de São Paulo\Documentos\NetBeansProjects\Busca\pom.xml
+
+C:\Users\User\OneDrive - Academico - Secretaria do Estado da Educação de São Paulo\Documentos\NetBeansProjects\Busca\target\maven-archiver\pom.properties
+
+
+Data:21/09/2023 Hora:22:56
+Nome informado: pom
+C:\Users\User\OneDrive - Academico - Secretaria do Estado da Educação de São Paulo\Documentos\NetBeansProjects\Busca\pom.xml
+
+C:\Users\User\OneDrive - Academico - Secretaria do Estado da Educação de São Paulo\Documentos\NetBeansProjects\Busca\target\maven-archiver\pom.properties
+
+
+Data:21/09/2023 Hora:23:41
+Nome informado: pom
+C:\Users\User\OneDrive - Academico - Secretaria do Estado da Educação de São Paulo\Documentos\NetBeansProjects\Busca\pom.xml
+
+C:\Users\User\OneDrive - Academico - Secretaria do Estado da Educação de São Paulo\Documentos\NetBeansProjects\Busca\target\maven-archiver\pom.properties
+
+
+Data:21/09/2023 Hora:23:48
+Nome informado: pom
+C:\Users\User\OneDrive - Academico - Secretaria do Estado da Educação de São Paulo\Documentos\NetBeansProjects\Busca\pom.xml
+
+C:\Users\User\OneDrive - Academico - Secretaria do Estado da Educação de São Paulo\Documentos\NetBeansProjects\Busca\target\maven-archiver\pom.properties
+
+
